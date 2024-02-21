@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  margin: 50px auto;
+  width: 300px;
+}
+
+.container h1 {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+form input {
+  font-size: 16px;
+  height: 30px;
+  padding-left: 5px;
+}
+
+form > button {
+  margin-left: 5px;
+  height: 30px;
+  font-size: 16px;
+  padding: 0 10px;
+}
+
+ul {
+  margin-top: 15px;
+}
+
+li {
+  margin: 10px 0;
+}
+.input {
+  font-size: 18px;
+  height: 30px;
+  padding-left: 5px;
+  margin-left: 18px;
+}
+.btn {
+  margin-left: 30px;
+  height: 30px;
+  font-size: 16px;
+}
